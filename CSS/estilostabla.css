@@ -1,0 +1,14 @@
+body{
+	background:#0D98BA;
+}
+.imgen{
+	width: 500px;
+	height: 400px;
+}
+.container{
+	margin-top: 150px;
+	margin-bottom: 100px;
+}
+h1{
+	text-align: center;
+}

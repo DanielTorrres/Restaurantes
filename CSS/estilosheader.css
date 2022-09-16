@@ -1,0 +1,35 @@
+header{
+	width: 100%;
+	height:75px;
+	background: #F2CB05;
+	position: fixed;
+	top: 0;
+	margin-left: -8px;
+
+}
+
+#logo{
+	width: 90px;
+	float: left;
+	margin: -12px 10px;
+}
+#menu{
+	float: right;
+}
+#menu ul{
+	list-style: none;
+	display: flex;
+}
+#menu ul li{
+	margin-right:15px;
+	padding: 5px;
+	font-size:1.2em; 
+}
+#menu ul li a{
+	text-decoration: none;
+	color: white;
+}
+.enlase:hover{
+	background: #0D0D0D;
+
+}

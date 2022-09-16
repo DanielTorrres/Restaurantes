@@ -1,0 +1,10 @@
+.restaurante{
+	background: url(../img/di.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	height: 100%;
+	opacity: 0.8;
+}
